@@ -1,0 +1,7 @@
+[project]
+name = "world-cup-near-me"
+version = "0.1.0"
+description = "AI-enhanced World Cup event finder platform"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
