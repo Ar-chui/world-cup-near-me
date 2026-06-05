@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "AI-enhanced World Cup event finder platform"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "alembic>=1.18.4",
+    "psycopg>=3.3.4",
+    "sqlalchemy>=2.0.50",
+]
