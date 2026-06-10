@@ -5,6 +5,14 @@ from sqlalchemy import pool
 
 from alembic import context
 
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+# Import our models so Alembic can see the schema
+from backend.app.database import Base
+from backend.app.models import Match, PipelineRun, RawEvent, RawEventContribution, Event
+
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config
@@ -14,17 +22,25 @@ config = context.config
 if config.config_file_name is not None:
     fileConfig(config.config_file_name)
 
+# Load environment variables from .env
+load_dotenv(Path(__file__).resolve().parents[2] / ".env")
+
+# Override the database URL from environment
+database_url = os.getenv("DATABASE_URL")
+if not database_url:
+    raise ValueError("DATABASE_URL is not set in your .env file")
+config.set_main_option("sqlalchemy.url", database_url)
+
 # add your model's MetaData object here
 # for 'autogenerate' support
 # from myapp import mymodel
 # target_metadata = mymodel.Base.metadata
-target_metadata = None
+target_metadata = Base.metadata
 
 # other values from the config, defined by the needs of env.py,
 # can be acquired:
 # my_important_option = config.get_main_option("my_important_option")
 # ... etc.
-
 
 def run_migrations_offline() -> None:
     """Run migrations in 'offline' mode.

@@ -6,8 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "alembic>=1.18.4",
+    "dateparser>=1.4.0",
     "httpx>=0.28.1",
-    "psycopg>=3.3.4",
+    "psycopg[binary]>=3.3.4",
     "python-dotenv>=1.2.2",
     "sqlalchemy>=2.0.50",
 ]

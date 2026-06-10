@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Algeria",
+    "normalized_name": "algeria",
+    "abbreviation": "ALG",
+    "confederation": "CAF",
+    "balldontlie_id": 38
+  },
+  {
+    "name": "Argentina",
+    "normalized_name": "argentina",
+    "abbreviation": "ARG",
+    "confederation": "CONMEBOL",
+    "balldontlie_id": 37
+  },
+  {
+    "name": "Australia",
+    "normalized_name": "australia",
+    "abbreviation": "AUS",
+    "confederation": "AFC",
+    "balldontlie_id": 15
+  },
+  {
+    "name": "Austria",
+    "normalized_name": "austria",
+    "abbreviation": "AUT",
+    "confederation": "UEFA",
+    "balldontlie_id": 39
+  },
+  {
+    "name": "Belgium",
+    "normalized_name": "belgium",
+    "abbreviation": "BEL",
+    "confederation": "UEFA",
+    "balldontlie_id": 25
+  },
+  {
+    "name": "Bosnia & Herzegovina",
+    "normalized_name": "bosnia & herzegovina",
+    "abbreviation": "BIH",
+    "confederation": "UEFA",
+    "balldontlie_id": 6
+  },
+  {
+    "name": "Brazil",
+    "normalized_name": "brazil",
+    "abbreviation": "BRA",
+    "confederation": "CONMEBOL",
+    "balldontlie_id": 9
+  },
+  {
+    "name": "Cabo Verde",
+    "normalized_name": "cabo verde",
+    "abbreviation": "CPV",
+    "confederation": "CAF",
+    "balldontlie_id": 30
+  },
+  {
+    "name": "Canada",
+    "normalized_name": "canada",
+    "abbreviation": "CAN",
+    "confederation": "CONCACAF",
+    "balldontlie_id": 5
+  },
+  {
+    "name": "Colombia",
+    "normalized_name": "colombia",
+    "abbreviation": "COL",
+    "confederation": "CONMEBOL",
+    "balldontlie_id": 42
+  },
+  {
+    "name": "Croatia",
+    "normalized_name": "croatia",
+    "abbreviation": "CRO",
+    "confederation": "UEFA",
+    "balldontlie_id": 46
+  },
+  {
+    "name": "Curaçao",
+    "normalized_name": "curacao",
+    "abbreviation": "CUW",
+    "confederation": "CONCACAF",
+    "balldontlie_id": 18
+  },
+  {
+    "name": "Czechia",
+    "normalized_name": "czechia",
+    "abbreviation": "CZE",
+    "confederation": "UEFA",
+    "balldontlie_id": 4
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "normalized_name": "cote d'ivoire",
+    "abbreviation": "CIV",
+    "confederation": "CAF",
+    "balldontlie_id": 19
+  },
+  {
+    "name": "DR Congo",
+    "normalized_name": "dr congo",
+    "abbreviation": "COD",
+    "confederation": "CAF",
+    "balldontlie_id": 44
+  },
+  {
+    "name": "Ecuador",
+    "normalized_name": "ecuador",
+    "abbreviation": "ECU",
+    "confederation": "CONMEBOL",
+    "balldontlie_id": 20
+  },
+  {
+    "name": "Egypt",
+    "normalized_name": "egypt",
+    "abbreviation": "EGY",
+    "confederation": "CAF",
+    "balldontlie_id": 26
+  },
+  {
+    "name": "England",
+    "normalized_name": "england",
+    "abbreviation": "ENG",
+    "confederation": "UEFA",
+    "balldontlie_id": 45
+  },
+  {
+    "name": "France",
+    "normalized_name": "france",
+    "abbreviation": "FRA",
+    "confederation": "UEFA",
+    "balldontlie_id": 33
+  },
+  {
+    "name": "Germany",
+    "normalized_name": "germany",
+    "abbreviation": "GER",
+    "confederation": "UEFA",
+    "balldontlie_id": 17
+  },
+  {
+    "name": "Ghana",
+    "normalized_name": "ghana",
+    "abbreviation": "GHA",
+    "confederation": "CAF",
+    "balldontlie_id": 47
+  },
+  {
+    "name": "Haiti",
+    "normalized_name": "haiti",
+    "abbreviation": "HAI",
+    "confederation": "CONCACAF",
+    "balldontlie_id": 11
+  },
+  {
+    "name": "Iran",
+    "normalized_name": "iran",
+    "abbreviation": "IRN",
+    "confederation": "AFC",
+    "balldontlie_id": 27
+  },
+  {
+    "name": "Iraq",
+    "normalized_name": "iraq",
+    "abbreviation": "IRQ",
+    "confederation": "AFC",
+    "balldontlie_id": 35
+  },
+  {
+    "name": "Japan",
+    "normalized_name": "japan",
+    "abbreviation": "JPN",
+    "confederation": "AFC",
+    "balldontlie_id": 22
+  },
+  {
+    "name": "Jordan",
+    "normalized_name": "jordan",
+    "abbreviation": "JOR",
+    "confederation": "AFC",
+    "balldontlie_id": 40
+  },
+  {
+    "name": "Mexico",
+    "normalized_name": "mexico",
+    "abbreviation": "MEX",
+    "confederation": "CONCACAF",
+    "balldontlie_id": 1
+  },
+  {
+    "name": "Morocco",
+    "normalized_name": "morocco",
+    "abbreviation": "MAR",
+    "confederation": "CAF",
+    "balldontlie_id": 10
+  },
+  {
+    "name": "Netherlands",
+    "normalized_name": "netherlands",
+    "abbreviation": "NED",
+    "confederation": "UEFA",
+    "balldontlie_id": 21
+  },
+  {
+    "name": "New Zealand",
+    "normalized_name": "new zealand",
+    "abbreviation": "NZL",
+    "confederation": "OFC",
+    "balldontlie_id": 28
+  },
+  {
+    "name": "Norway",
+    "normalized_name": "norway",
+    "abbreviation": "NOR",
+    "confederation": "UEFA",
+    "balldontlie_id": 36
+  },
+  {
+    "name": "Panama",
+    "normalized_name": "panama",
+    "abbreviation": "PAN",
+    "confederation": "CONCACAF",
+    "balldontlie_id": 48
+  },
+  {
+    "name": "Paraguay",
+    "normalized_name": "paraguay",
+    "abbreviation": "PAR",
+    "confederation": "CONMEBOL",
+    "balldontlie_id": 14
+  },
+  {
+    "name": "Portugal",
+    "normalized_name": "portugal",
+    "abbreviation": "POR",
+    "confederation": "UEFA",
+    "balldontlie_id": 41
+  },
+  {
+    "name": "Qatar",
+    "normalized_name": "qatar",
+    "abbreviation": "QAT",
+    "confederation": "AFC",
+    "balldontlie_id": 7
+  },
+  {
+    "name": "Saudi Arabia",
+    "normalized_name": "saudi arabia",
+    "abbreviation": "KSA",
+    "confederation": "AFC",
+    "balldontlie_id": 31
+  },
+  {
+    "name": "Scotland",
+    "normalized_name": "scotland",
+    "abbreviation": "SCO",
+    "confederation": "UEFA",
+    "balldontlie_id": 12
+  },
+  {
+    "name": "Senegal",
+    "normalized_name": "senegal",
+    "abbreviation": "SEN",
+    "confederation": "CAF",
+    "balldontlie_id": 34
+  },
+  {
+    "name": "South Africa",
+    "normalized_name": "south africa",
+    "abbreviation": "RSA",
+    "confederation": "CAF",
+    "balldontlie_id": 2
+  },
+  {
+    "name": "South Korea",
+    "normalized_name": "south korea",
+    "abbreviation": "KOR",
+    "confederation": "AFC",
+    "balldontlie_id": 3
+  },
+  {
+    "name": "Spain",
+    "normalized_name": "spain",
+    "abbreviation": "ESP",
+    "confederation": "UEFA",
+    "balldontlie_id": 29
+  },
+  {
+    "name": "Sweden",
+    "normalized_name": "sweden",
+    "abbreviation": "SWE",
+    "confederation": "UEFA",
+    "balldontlie_id": 23
+  },
+  {
+    "name": "Switzerland",
+    "normalized_name": "switzerland",
+    "abbreviation": "SUI",
+    "confederation": "UEFA",
+    "balldontlie_id": 8
+  },
+  {
+    "name": "Tunisia",
+    "normalized_name": "tunisia",
+    "abbreviation": "TUN",
+    "confederation": "CAF",
+    "balldontlie_id": 24
+  },
+  {
+    "name": "Türkiye",
+    "normalized_name": "turkiye",
+    "abbreviation": "TUR",
+    "confederation": "UEFA",
+    "balldontlie_id": 16
+  },
+  {
+    "name": "USA",
+    "normalized_name": "usa",
+    "abbreviation": "USA",
+    "confederation": "CONCACAF",
+    "balldontlie_id": 13
+  },
+  {
+    "name": "Uruguay",
+    "normalized_name": "uruguay",
+    "abbreviation": "URU",
+    "confederation": "CONMEBOL",
+    "balldontlie_id": 32
+  },
+  {
+    "name": "Uzbekistan",
+    "normalized_name": "uzbekistan",
+    "abbreviation": "UZB",
+    "confederation": "AFC",
+    "balldontlie_id": 43
+  }
+]

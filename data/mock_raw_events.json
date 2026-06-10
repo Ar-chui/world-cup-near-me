@@ -1,0 +1,170 @@
+[
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock001",
+    "raw_text": "🇦🇷 ARGENTINA WATCH PARTY 🇦🇷\nJoin us at Bodega on June 17th at 7PM as we watch Argentina vs Algeria!\nDrink specials all night. Come early to get a seat!\n📍 Bodega Bar & Kitchen, 1221 Main St, Houston TX\n#Argentina #WorldCup2026 #WatchParty #Vamos",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock001",
+      "likes": 142,
+      "hashtags": ["Argentina", "WorldCup2026", "WatchParty", "Vamos"]
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.facebook.com/events/mock002",
+    "raw_text": "World Cup Watch Party - USA vs Paraguay\nDate: June 12, 2026\nTime: 9:00 PM EST\nVenue: The Dubliner Irish Pub, 520 N Capitol St NW, Washington DC 20001\nFree entry. Full menu available. Multiple screens.\nBring your friends and your flags!",
+    "raw_payload": {
+      "platform": "facebook",
+      "event_id": "mock002",
+      "going_count": 87,
+      "interested_count": 203
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.eventbrite.com/e/mock003",
+    "raw_text": "Brazil vs Morocco World Cup Watch Party\nOrganized by: Rio Social Club NYC\nDate and time: Saturday, June 13, 2026 at 9:00 PM EDT\nLocation: Copacabana Restaurant, 50 W 34th St, New York NY 10001\nTickets: Free, registration required\nJoin us for the biggest Brazilian watch party in New York! Live DJ, caipirinha specials, and Brazilian street food.",
+    "raw_payload": {
+      "platform": "eventbrite",
+      "event_id": "mock003",
+      "ticket_type": "free",
+      "capacity": 200
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock004",
+    "raw_text": "Vamos la Roja 🇪🇸❤️ watching Spain tonight at our place. Same spot as always, doors open at 6. See you there 🍺",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock004",
+      "likes": 34,
+      "hashtags": ["VamosLaRoja", "Spain", "WorldCup"]
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.facebook.com/events/mock005",
+    "raw_text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLAND SUPPORTERS CLUB - OFFICIAL WATCH PARTY 🏴󠁧󠁢󠁥󠁮󠁧󠁿\nEngland vs Croatia | Group Stage | June 17 2026\nKickoff: 8PM ET\nWhere: The Cock & Bull British Pub, 9000 Sunset Blvd, West Hollywood CA 90069\nOfficial England Supporters Club event. Replica shirts encouraged. Sing your heart out!",
+    "raw_payload": {
+      "platform": "facebook",
+      "event_id": "mock005",
+      "going_count": 312,
+      "interested_count": 580
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock006",
+    "raw_text": "Come watch the game with us this Sunday! 🍻 Big screens, cold beers, great people. We'll be showing the World Cup match starting at 3pm. No cover charge.\n📍 The Tap Room, Miami FL\n#WorldCup #WatchParty #Miami #Soccer",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock006",
+      "likes": 67,
+      "hashtags": ["WorldCup", "WatchParty", "Miami", "Soccer"]
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock007",
+    "raw_text": "🇩🇪 Deutschland Stammtisch - WM 2026 🇩🇪\nWir schauen Deutschland gegen Curaçao am 14. Juni um 13 Uhr!\nOrt: Zum Schneider, 107 Avenue C, New York NY 10009\nKommt alle! Bier und Bratwurst für alle! 🍺🥨\n#DFB #WM2026 #Deutschland #Stammtisch",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock007",
+      "likes": 89,
+      "hashtags": ["DFB", "WM2026", "Deutschland", "Stammtisch"]
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.facebook.com/events/mock008",
+    "raw_text": "OFFICIAL FIFA FAN FEST - DOWNTOWN LOS ANGELES\nDates: June 11 - July 19, 2026\nLocation: Grand Park, 200 N Grand Ave, Los Angeles CA 90012\nFree admission. Giant screens, food trucks, live entertainment, interactive zones.\nPowered by the City of LA and FIFA. Open to all fans.",
+    "raw_payload": {
+      "platform": "facebook",
+      "event_id": "mock008",
+      "going_count": 4521,
+      "interested_count": 12043
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock009",
+    "raw_text": "Watching the match tonight 👀⚽ come through if you're around. You know where we are 😏 #WorldCup2026",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock009",
+      "likes": 12,
+      "hashtags": ["WorldCup2026"]
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.eventbrite.com/e/mock010",
+    "raw_text": "France vs Senegal World Cup 2026 Watch Party\nHosted by: Alliance Française de Chicago\nDate: Monday June 16 2026\nTime: 7:00 PM CDT\nLocation: The Mid, 306 N Halsted St, Chicago IL 60661\nTickets: $10 general admission, includes one complimentary drink\nJoin the French community of Chicago for this historic Group Stage clash. French and Senegalese fans both welcome!",
+    "raw_payload": {
+      "platform": "eventbrite",
+      "event_id": "mock010",
+      "ticket_type": "paid",
+      "price": 10.00,
+      "capacity": 350
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock011",
+    "raw_text": "🇲🇽🇲🇽🇲🇽 MEXICO VS SOUTH AFRICA 🇲🇽🇲🇽🇲🇽\nArranque del Mundial 2026!\nFecha: 11 de Junio, 2026\nHora: 2PM\nLugar: La Cantina Mexicana, 4850 W Fullerton Ave, Chicago IL 60639\nEntrada libre. Habrá botanas, margaritas y mucha pasión mexicana. ¡Arriba México!\n#VivaLaSelección #Mexico #WorldCup2026 #FIFAWorldCup",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock011",
+      "likes": 203,
+      "hashtags": ["VivaLaSelección", "Mexico", "WorldCup2026", "FIFAWorldCup"]
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.facebook.com/events/mock012",
+    "raw_text": "World Cup Watch Party - USA vs Paraguay\nDate: June 12, 2026\nTime: 9:00 PM EST\nVenue: The Dubliner Irish Pub, 520 N Capitol St NW, Washington DC 20001\nFree entry. Full menu and bar available.\nCome support the USMNT!",
+    "raw_payload": {
+      "platform": "facebook",
+      "event_id": "mock012",
+      "going_count": 54,
+      "interested_count": 121
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock013",
+    "raw_text": "[Image-only post simulation — extracted via Vision AI]\nFlyer text: PORTUGAL WATCH PARTY | June 17 | Kick off 5PM | Sal's Sports Bar, Newark NJ | No cover | Come dressed in red!",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock013",
+      "is_image_only": true,
+      "vision_extracted": true,
+      "likes": 56
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.eventbrite.com/e/mock014",
+    "raw_text": "FIFA World Cup 2026 Final Watch Party\nDate: Sunday August 2 2026\nTime: 11:00 AM PDT\nVenue: Regal LA Live, 1000 W Olympic Blvd, Los Angeles CA 90015\nTickets: $25 per person, includes popcorn and soft drink\nWatch the World Cup Final on the big screen! Limited capacity — get your tickets now.",
+    "raw_payload": {
+      "platform": "eventbrite",
+      "event_id": "mock014",
+      "ticket_type": "paid",
+      "price": 25.00,
+      "capacity": 400
+    }
+  },
+  {
+    "source": "mock",
+    "source_url": "https://www.instagram.com/p/mock015",
+    "raw_text": "Netherlands fans assemble! 🇳🇱🧡 Watching Oranje vs Japan on June 14th at our usual spot. Starts at 8PM sharp. BYOB welcome. Drop a 🧡 if you're coming!\n#Oranje #Netherlands #WorldCup2026 #NEDVSJPN",
+    "raw_payload": {
+      "platform": "instagram",
+      "post_id": "mock015",
+      "likes": 78,
+      "hashtags": ["Oranje", "Netherlands", "WorldCup2026", "NEDVSJPN"]
+    }
+  }
+]
