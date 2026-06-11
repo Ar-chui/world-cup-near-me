@@ -215,6 +215,9 @@ class RawEvent(Base):
     # For image-only posts: the text extracted by GPT-4o Vision.
     raw_text: Mapped[str | None] = mapped_column(Text, nullable=True)
 
+    image_url: Mapped[str | None] = mapped_column(Text, nullable=True)
+    has_image: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
+
     # The original structured JSON payload from the source, stored as-is.
     # JSONB is PostgreSQL's binary JSON type — it's indexed and queryable.
     # We store this so we can always reprocess from the original data
@@ -295,6 +298,7 @@ class Event(Base):
     event_date: Mapped[str | None] = mapped_column(String(20), nullable=True, index=True)
     event_end_date: Mapped[str | None] = mapped_column(String(20), nullable=True)
     event_time: Mapped[str | None] = mapped_column(String(20), nullable=True)
+    event_timezone: Mapped[str | None] = mapped_column(String(50), nullable=True)
 
     # Teams mentioned or inferred — stored as a comma-separated string.
     # Example: "Argentina, France"
